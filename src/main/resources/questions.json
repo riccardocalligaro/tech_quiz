@@ -28,5 +28,27 @@
       "1985"
     ],
     "correct_answer": "1954"
+  },
+  {
+    "title" : "Cosa significa CPU?",
+    "possible_answers": [
+    "Central Processing Unit",
+    "Computer Processor Unit",
+    "Calculating Power Unit",
+    "Circuit Processor Unit"
+    ],
+    "correct_answer": "Central Processing Unit",
+    "time" : 3000
+  },
+  {
+    "title" : "Che cosa significa l'acronimo HTTP negli indirizzi web?",
+    "possible_answers": [
+    "Handle To The Page",
+    "Hypertext Transfer Protocol",
+    "Highly Transferable Text Page",
+    "Highly Trusted Transfer Protocol"
+    ],
+    "correct_answer": "Hypertext Transfer Protocol",
+    "time" : 3000
   }
 ]
