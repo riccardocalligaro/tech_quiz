@@ -7,7 +7,8 @@
       "Gennaio 1994",
       "Gennaio 1995"
     ],
-    "correct_answer": "Gennaio 1992"
+    "correct_answer": "Gennaio 1992",
+    "time": 10000
   },
   {
     "title": "Quando è stato inventato il computer?",
@@ -17,7 +18,8 @@
       "Gennaio 1954",
       "Gennaio 1915"
     ],
-    "correct_answer": "Gennaio 1943"
+    "correct_answer": "Gennaio 1943",
+    "time": 2000
   },
   {
     "title": "Quando è stato inventato il mouse?",
@@ -27,6 +29,83 @@
       "1954",
       "1985"
     ],
-    "correct_answer": "1954"
+    "correct_answer": "1954",
+    "time": 3000
+  },
+  {
+    "title": "Il primo browser popolare con interfaccia grafica per il Web, rilasciato nel 1993, era:",
+    "possible_answers": [
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Mosaic",
+      "Opera"
+    ],
+    "correct_answer": "Mosaic",
+    "time": 15000
+  },
+  {
+    "title": "Quale università è stata la prima su Facebook?",
+    "possible_answers": [
+      "Harvard",
+      "Stanford",
+      "MIT",
+      "Università dell’Illinois"
+    ],
+    "correct_answer": "Harvard",
+    "time": 10000
+  },
+  {
+    "title": "Cosa significa “URL”?",
+    "possible_answers": [
+      "Ultra Reliable Linkage",
+      "User Responsability Liability",
+      "Unique Rate Limit",
+      "Uniform Resource Locator"
+    ],
+    "correct_answer": "Ultra Reliable Linkage",
+    "time": 10000
+  },
+  {
+    "title": "In quale anno fu venduto per la prima volta l’iPhone negli USA?",
+    "possible_answers": [
+      "2005",
+      "2007",
+      "2009",
+      "2011"
+    ],
+    "correct_answer": "2007",
+    "time": 8000
+  },
+  {
+    "title": "Scegli quale contiene il maggior numero di informazioni",
+    "possible_answers": [
+      "Kilobyte",
+      "Megabyte"
+    ],
+    "correct_answer": "Megabyte",
+    "time": 6000
+  },
+  {
+    "title": "Tra gli indirizzi internet seguenti, uno è sicuramente sbagliato. Quale?",
+    "possible_answers": [
+      "http://www.giornali.net",
+      "http://andrea@hotmail.it",
+      "http://ordini.formaggi.it/",
+      "http://andrea@hotmail.it",
+      "Nessuno di questi"
+    ],
+    "correct_answer": "http://andrea@hotmail.it",
+    "time": 12000
+  },
+  {
+    "title": "  Quale operazione non compie il sistema operativo?",
+    "possible_answers": [
+      "Sovrintendere all'esecuzione dei programmi",
+      "Le operazioni di calcolo",
+      "La gestione delle risorse delle periferiche",
+      "Inviare le istruzioni immesse dall'utente e dai software alle parti meccaniche"
+    ],
+    "correct_answer": "Le operazioni di calcolo",
+    "time": 12000
   }
 ]

@@ -74,7 +74,6 @@ public class Home extends JPanel {
         add(label);
 
         JPanel buttonsPanel = new JPanel();
-        //buttonsPanel.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
 
         final List<String> answers = questions.get(position).getPossibleAnswers();
 
@@ -100,13 +99,13 @@ public class Home extends JPanel {
 
         add(jProgressBar);
 
+        final int time = questions.get(position).getTime() / 100;
+
         SwingWorker<Void, Void> worker = new SwingWorker<Void, Void>() {
-
-
             @Override
             protected Void doInBackground() throws Exception {
                 for (long i = 1; i <= 100; i++) {
-                    Thread.sleep(50);
+                    Thread.sleep(time);
                     jProgressBar.setValue(percent++);
                     if (percent >= 101) {
                         break;

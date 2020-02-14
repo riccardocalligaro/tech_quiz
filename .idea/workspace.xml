@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a92dbf6c-9fb7-45ea-9ba7-4524d66845a6" name="Default Changelist" comment="" />
+    <list default="true" id="a92dbf6c-9fb7-45ea-9ba7-4524d66845a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/views/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/views/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/questions.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/questions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Home$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Home$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/views/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/views/Home.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -67,30 +79,30 @@
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="361" y="75" key="#Project_Structure/0.0.1536.832@0.0.1536.832" timestamp="1581071047108" />
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1581098078656">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1581676111002">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1581098078656" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.832@0.0.1536.832" timestamp="1581676111002" />
     <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1581073417136">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1581073417136" />
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom" timestamp="1581101425647">
+    <state width="746" height="110" key="GridCell.Tab.0.bottom" timestamp="1581676986513">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1581101425647" />
-    <state width="1493" height="242" key="GridCell.Tab.0.center" timestamp="1581101425647">
+    <state width="746" height="110" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1581676986513" />
+    <state width="746" height="110" key="GridCell.Tab.0.center" timestamp="1581676986513">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1581101425647" />
-    <state width="1493" height="242" key="GridCell.Tab.0.left" timestamp="1581101425647">
+    <state width="746" height="110" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1581676986513" />
+    <state width="746" height="110" key="GridCell.Tab.0.left" timestamp="1581676986513">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1581101425647" />
-    <state width="1493" height="242" key="GridCell.Tab.0.right" timestamp="1581101425647">
+    <state width="746" height="110" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1581676986513" />
+    <state width="746" height="110" key="GridCell.Tab.0.right" timestamp="1581676986513">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="242" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1581101425647" />
+    <state width="746" height="110" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1581676986513" />
     <state width="1493" height="242" key="GridCell.Tab.1.bottom" timestamp="1581101425647">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
@@ -115,6 +127,10 @@
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="470" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1581070941430" />
+    <state x="577" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581677327457">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="577" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.832@0.0.1536.832" timestamp="1581677327457" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1581096220785">
       <screen x="0" y="0" width="1536" height="832" />
     </state>

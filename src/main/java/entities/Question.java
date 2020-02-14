@@ -11,6 +11,7 @@ public class Question {
     private List<String> possibleAnswers;
     @SerializedName("correct_answer")
     private String correctAnswer;
+    private int time;
 
     public Question() {
     }
@@ -25,6 +26,11 @@ public class Question {
 
     public String getCorrectAnswer() {
         return correctAnswer;
+    }
+
+
+    public int getTime() {
+        return time;
     }
 
     @Override
