@@ -1,38 +1,5 @@
 [
   {
-    "title": "Quando è stato inventato Windows?",
-    "possible_answers": [
-      "Gennaio 1992",
-      "Gennaio 1993",
-      "Gennaio 1994",
-      "Gennaio 1995"
-    ],
-    "correct_answer": "Gennaio 1992",
-    "time": 10000
-  },
-  {
-    "title": "Quando è stato inventato il computer?",
-    "possible_answers": [
-      "Gennaio 1932",
-      "Gennaio 1943",
-      "Gennaio 1954",
-      "Gennaio 1915"
-    ],
-    "correct_answer": "Gennaio 1943",
-    "time": 2000
-  },
-  {
-    "title": "Quando è stato inventato il mouse?",
-    "possible_answers": [
-      "1912",
-      "1843",
-      "1954",
-      "1985"
-    ],
-    "correct_answer": "1954",
-    "time": 3000
-  },
-  {
     "title": "Il primo browser popolare con interfaccia grafica per il Web, rilasciato nel 1993, era:",
     "possible_answers": [
       "Netscape Navigator",
@@ -52,7 +19,7 @@
       "Università dell’Illinois"
     ],
     "correct_answer": "Harvard",
-    "time": 10000
+    "time": 15000
   },
   {
     "title": "Cosa significa “URL”?",
@@ -63,7 +30,7 @@
       "Uniform Resource Locator"
     ],
     "correct_answer": "Ultra Reliable Linkage",
-    "time": 10000
+    "time": 15000
   },
   {
     "title": "In quale anno fu venduto per la prima volta l’iPhone negli USA?",
@@ -83,7 +50,7 @@
       "Megabyte"
     ],
     "correct_answer": "Megabyte",
-    "time": 6000
+    "time": 8000
   },
   {
     "title": "Tra gli indirizzi internet seguenti, uno è sicuramente sbagliato. Quale?",
@@ -91,13 +58,42 @@
       "http://www.giornali.net",
       "http://andrea@hotmail.it",
       "http://ordini.formaggi.it/",
-      "Nessuno dei precedenti",
-      "http://andrea@hotmail.it"
-
+      "http://andrea@hotmail.it",
+      "Nessuno di questi"
     ],
     "correct_answer": "http://andrea@hotmail.it",
-    "time": 12000
+    "time": 20000
+  },
+  {
+    "title": "  Quale operazione non compie il sistema operativo?",
+    "possible_answers": [
+      "Sovrintendere all'esecuzione dei programmi",
+      "Le operazioni di calcolo",
+      "La gestione delle risorse delle periferiche"
+    ],
+    "correct_answer": "Le operazioni di calcolo",
+    "time": 15000
+  },
+  {
+    "title": "Cosa significa CPU?",
+    "possible_answers": [
+      "Central Processing Unit",
+      "Computer Processor Unit",
+      "Calculating Power Unit",
+      "Circuit Processor Unit"
+    ],
+    "correct_answer": "Central Processing Unit",
+    "time": 13000
+  },
+  {
+    "title": "Che cosa significa l'acronimo HTTP negli indirizzi web?",
+    "possible_answers": [
+      "Handle To The Page",
+      "Hypertext Transfer Protocol",
+      "Highly Transferable Text Page",
+      "Highly Trusted Transfer Protocol"
+    ],
+    "correct_answer": "Hypertext Transfer Protocol",
+    "time": 13000
   }
-
-
 ]

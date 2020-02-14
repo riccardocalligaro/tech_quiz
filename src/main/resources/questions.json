@@ -19,7 +19,7 @@
       "Università dell’Illinois"
     ],
     "correct_answer": "Harvard",
-    "time": 10000
+    "time": 15000
   },
   {
     "title": "Cosa significa “URL”?",
@@ -30,19 +30,27 @@
       "Uniform Resource Locator"
     ],
     "correct_answer": "Ultra Reliable Linkage",
-    "time": 10000
+    "time": 15000
   },
   {
     "title": "In quale anno fu venduto per la prima volta l’iPhone negli USA?",
-    "possible_answers": ["2005", "2007", "2009", "2011"],
+    "possible_answers": [
+      "2005",
+      "2007",
+      "2009",
+      "2011"
+    ],
     "correct_answer": "2007",
     "time": 8000
   },
   {
     "title": "Scegli quale contiene il maggior numero di informazioni",
-    "possible_answers": ["Kilobyte", "Megabyte"],
+    "possible_answers": [
+      "Kilobyte",
+      "Megabyte"
+    ],
     "correct_answer": "Megabyte",
-    "time": 6000
+    "time": 8000
   },
   {
     "title": "Tra gli indirizzi internet seguenti, uno è sicuramente sbagliato. Quale?",
@@ -54,18 +62,17 @@
       "Nessuno di questi"
     ],
     "correct_answer": "http://andrea@hotmail.it",
-    "time": 12000
+    "time": 20000
   },
   {
     "title": "  Quale operazione non compie il sistema operativo?",
     "possible_answers": [
       "Sovrintendere all'esecuzione dei programmi",
       "Le operazioni di calcolo",
-      "La gestione delle risorse delle periferiche",
-      "Inviare le istruzioni immesse dall'utente e dai software alle parti meccaniche"
+      "La gestione delle risorse delle periferiche"
     ],
     "correct_answer": "Le operazioni di calcolo",
-    "time": 12000
+    "time": 15000
   },
   {
     "title": "Cosa significa CPU?",
@@ -76,7 +83,7 @@
       "Circuit Processor Unit"
     ],
     "correct_answer": "Central Processing Unit",
-    "time": 3000
+    "time": 13000
   },
   {
     "title": "Che cosa significa l'acronimo HTTP negli indirizzi web?",
@@ -87,6 +94,6 @@
       "Highly Trusted Transfer Protocol"
     ],
     "correct_answer": "Hypertext Transfer Protocol",
-    "time": 3000
+    "time": 13000
   }
 ]
